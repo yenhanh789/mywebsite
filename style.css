@@ -1,0 +1,23 @@
+.news{
+    border: 1px solid gray;
+    width: 500px;
+    margin-top: 10px;
+    text-align: justify;
+    margin-left: 5px;
+}
+h2{
+    margin-top: 20px;
+    padding: 10px ;
+}
+h2.bg-color{
+    background-color: indianred;
+    padding: 10px;
+}
+p{
+    margin-bottom: 5px;
+    padding: 10px;
+}
+p.bg-color{
+    background-color: lawngreen;
+    padding: 10px;
+}
